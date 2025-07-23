@@ -9,6 +9,6 @@ Sve što upišete ide u link. Ne koristi bazu podataka niti zahteva bekend. Taj 
 * sačuvati kao podsetnik za kasnije
 
 ## Kako koristiti
-1. Otvorite [https://sdfsdhgjkbmnmxc.github.io/ips/](https://sdfsdhgjkbmnmxc.github.io/ips/)
+1. Otvorite [https://botforge.github.io/ips/](https://botforge.github.io/ips/)
 2. Unesite podatke u formu
 3. Kopirajte generisani link ili skenirajte QR kod
